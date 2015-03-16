@@ -13,6 +13,8 @@ their research. Given the same input data, a system of well-defined
 bioboxes is also the first step towards the establishment of
 provenance records and making research truly reproducible.
 
+TODO: mention validator. Docker in Docker. Relationship with CWL.
+
 ### Details
 
 To be submitted to BOSC 2015.
