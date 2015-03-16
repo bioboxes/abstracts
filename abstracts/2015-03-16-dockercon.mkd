@@ -1,3 +1,5 @@
+### Abstract
+
 Building an open-source community around standardised containers.
 
 Containers simplify sharing software because all the dependencies are included.
@@ -9,3 +11,10 @@ swapped for another of the same type because the interfaces are the same. In
 the field of bioinformatics, this allows new advances in research to be easily
 shared leading to faster evaluation and use. The talk will include the methods
 we're using to create this community.
+
+### Details
+
+This was submitted to [DockerCon call for papers][cfp] on March 15, 2015 by
+Michael Barton.
+
+[cfp]: https://docs.google.com/forms/d/1Nl1j4D3nZ43-GLP1waZ5ty721z0IxIhPJG_wZh3aoeQ/viewform?usp=send_form
