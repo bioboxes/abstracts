@@ -1,0 +1,18 @@
+### Abstract
+
+Bioboxes: bioinformatics apps in standardised containers.
+
+We introduce the open-source "bioboxes" community with the mission of
+building a solid catalog of bioinformatics containers. Each "box" or
+app is easy to install, easy to run and easy to reproduce in its
+results. By creating standardised interfaces and containers, each app
+can be seamlessly used like any other app of the same
+type. Researchers with this catalog of apps at their fingertips can
+comprehensively evaluate many similar tools and improve the quality of
+their research. Given the same input data, a system of well-defined
+bioboxes is also the first step towards the establishment of
+provenance records and making research truly reproducible.
+
+### Details
+
+To be submitted to BOSC 2015.
