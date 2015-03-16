@@ -1,0 +1,9 @@
+### Bioboxes abstracts
+
+This repository contains a list of abstracts where talks, posters, and
+presentations related to bioboxes have been submitted. This serves as a main
+repository for pull requests centred around these abstracts. Issues should be
+opened on the [bioboxes/rfc][issue] issue tracker. When creating an abstract
+please include a few details of where it is planned to be submitted.
+
+[issue]: https://github.com/bioboxes/rfc/issues
