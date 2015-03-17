@@ -21,3 +21,31 @@ TODO: mention: relationship with CWL workflows.
 ### Details
 
 To be submitted to BOSC 2015.
+
+
+Authors:
+
+mbarton@lbl.gov Michael Barton
+pbelmann@cebitec.uni-bielefeld.de Peter Belmann
+abremges@cebitec.uni-bielefeld.de Andreas Bremges
+johannes.droege@helmholtz-hzi.de Johannes Droge
+felipe@leprevost.com.br Felipe Leprevost
+yperez@ebi.ac.uk Yasset Perez-Riverol
+avilella@aptamex.com Albert J. Vilella
+acopeland@lbl.gov Alex Copeland
+alice.mchardy@helmholtz-hzi.de Alice McHardy
+asczyrba@cebitec.uni-bielefeld.de Alexander Sczyrba
+
+Affiliations:
+
+1. DOE Joint Genome Institute, 2800 Mitchell Drive, Walnut Creek, CA 94598, USA
+
+2. Center for Biotechnology, Bielefeld University, Universitatsstrasse 25, 33615, Bielefeld, Germany
+
+3. Helmholtz Centre for Infection Research, Inhoffenstrasse, 38124, Braunschweig, Germany
+
+4. Fiocruz, Carlos Chagas Institute, Rua Prof. Algacyr Munhoz Mader, 3775, CIC 81350-010, Curitiba/PR, Brasil
+
+5. European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
+
+6. Aptamex Limited, Onto.it Holdings, 62-66 Victoria Road, Cambridge, CB4 3DU, United Kingdom
