@@ -2,18 +2,21 @@
 
 Bioboxes: bioinformatics apps in standardised containers.
 
-We introduce the open-source "bioboxes" community with the mission of
-building a solid catalog of bioinformatics containers. Each "box" or
-app is easy to install, easy to run and easy to reproduce in its
-results. By creating standardised interfaces and containers, each app
-can be seamlessly used like any other app of the same
-type. Researchers with this catalog of apps at their fingertips can
-comprehensively evaluate many similar tools and improve the quality of
-their research. Given the same input data, a system of well-defined
-bioboxes is also the first step towards the establishment of
-provenance records and making research truly reproducible.
+We introduce the open-source **bioboxes** community with the mission
+of building a solid catalog of bioinformatics containers. Each "box"
+or appplication is easy to install, easy to run and easy to reproduce
+the exact results. Bioboxes creates standardised interfaces and
+containers, so that each app is available to use with minimal effort,
+and can be seamlessly executed like any other app of the same
+type. Bioboxes built by community members are validated with our
+dind-validator and sent to our free public Docker Hub. Researchers
+with this catalog of apps at their fingertips can comprehensively
+evaluate many similar tools and improve the quality of their
+research. Given the same input data, a system of well-defined bioboxes
+is also the first step towards the establishment of provenance records
+and making research truly reproducible.
 
-TODO: mention validator. Docker in Docker. Relationship with CWL.
+TODO: mention: relationship with CWL workflows.
 
 ### Details
 
