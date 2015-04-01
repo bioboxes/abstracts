@@ -1,27 +1,36 @@
 ### Abstract
 
-Bioboxes: bioinformatics apps in standardised containers.
+Bioboxes: standarised bioinformatics tools using Docker containers.
 
-We introduce the open-source **bioboxes** community with the mission
-of building a solid catalog of bioinformatics containers. Each "box"
-or appplication is easy to install, easy to run and easy to reproduce
-the exact results. Bioboxes creates standardised interfaces and
-containers, so that each app is available to use with minimal effort,
-and can be seamlessly executed like any other app of the same
-type. Bioboxes built by community members are validated with our
-dind-validator and sent to our free public Docker Hub. Researchers
-with this catalog of apps at their fingertips can comprehensively
-evaluate many similar tools and improve the quality of their
-research. Given the same input data, a system of well-defined bioboxes
-is also the first step towards the establishment of provenance records
-and making research truly reproducible.
+We introduce the open-source bioboxes community with the mission of building a
+solid catalog of bioinformatics containers. Each "box" or appplication is easy to
+install, easy to run and allows easy reproduction of results. Bioboxes creates
+standardized interfaces and containers, so that each app is available to use with
+minimal effort, and can be seamlessly executed like any other app of the same
+type.
 
-TODO: mention: relationship with CWL workflows.
+By giving instructions on how to create a biobox and by providing tools for easy
+containerisation, a biobox developer is able to integrate his application into a
+container very fast. To guarantee that a container follows a biobox interface, we
+have build our docker in docker validator. For easy access we provide each biobox in
+Github and our public Docker Hub Repository.
+
+On the long term will be the output of one biobox the input for another biobox. By
+chaining bioboxes it will be easy to create bioinformatic pipelines with the help
+of workflow systems like common-workflow-language, galaxy or nextflow.
+Since the aim of the standardization process is to make the usage of a container
+easier, a bioboxes graphical user interface would even allow to use Bioboxes
+without the knowledge of Docker.
+
+Researchers with this catalog of apps at their fingertips can comprehensively
+evaluate many similar tools and improve the quality of their research. Given the
+same input data, a system of well-defined bioboxes is also the first step towards the
+establishment of provenance records and making research truly reproducible.
+
 
 ### Details
 
 To be submitted to BOSC 2015.
-
 
 Authors:
 
