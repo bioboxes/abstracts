@@ -7,7 +7,7 @@ The bioboxes project furthers this concept by creating standardised interfaces s
 
 Bioboxes offers guidance by integrating an application into a container in different ways. For an advice in building a container we are using the Github ticket system. Instructions on our website and helper tools for creating a biobox container make it comfortable for a developer to integrate his application into a container. One of the helper tools is our Docker in Docker validator that guarantees that a container follows a biobox interface. Furthermore we provide each biobox in Github and our public Docker Hub repository for an easy access.
 
-Researchers with this catalog of apps at their fingertips can comprehensively evaluate many similar tools and improve the quality of their research. 
+Researchers with a whole selection of bioboxes at their fingertips can comprehensively evaluate many similar tools that have the same interface and improve the quality of their research.
 A system of well-defined bioboxes is an important step towards the making provenance easier and research more shareable and reproducible.
 
 ### Details
