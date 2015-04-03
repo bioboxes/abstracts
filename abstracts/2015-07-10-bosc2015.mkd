@@ -2,10 +2,9 @@
 
 Bioboxes: Standardised bioinformatic tools using Docker containers.
 
-We introduce the open-source community "bioboxes" which has the aim of simplifying bioinformatic tools through adopting common interfaces. The Docker project makes installing, running and reproducing the output of an application easier because all the dependencies can be provided by creating a "container" of the application. 
-The bioboxes project furthers this concept by creating standardised interfaces so that containerised software of the same biobox type can be seamlessly interchanged.
+We introduce the open-source community "bioboxes" which has the aim of simplifying bioinformatics tools through adopting common interfaces. The Docker project makes installing, running and reproducing the output of an application easier because all the dependencies can be provided by creating a "container" of the application. The bioboxes project furthers this concept by creating an interface standard so that containerised software of the same biobox type can be seamlessly interchanged.
 
-Bioboxes offers guidance by integrating an application into a container in different ways. For giving feedback and managing contributions like a biobox or a new interface we are using the Github issue system. Instructions on our website and helper tools for creating a biobox container make it comfortable for a developer to integrate his application into a container. One of the helper tools is our bioboxes validator that validates whether a container follows a biobox interface and thereby assures the developer that he correctly implemented his biobox. Furthermore we provide each biobox in Github and our public Docker Hub repository for an easy access.
+Feedback and contributions of new biobox interfaces are manage using the Github issue system. Bioboxes provides documentation and software to help developers follow this standard. The bioboxes.org website provides instructions and guide on how to build a biobox. We also provide a validator tool that that test whether a container follows a biobox interface and thereby helps the developer create their own bioboxes. Furthermore we provide bioboxes in Github and our public Docker Hub repository for download and use.
 
 Researchers with a whole selection of bioboxes at their fingertips can comprehensively evaluate many similar tools that have the same interface and improve the quality of their research.
 A system of well-defined bioboxes is an important step towards the making provenance easier and research more shareable and reproducible.
