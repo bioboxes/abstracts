@@ -494,8 +494,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43152228"
-     inkscape:cx="1344.802"
-     inkscape:cy="674.10337"
+     inkscape:cx="1210.3941"
+     inkscape:cy="2991.4808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -523,7 +523,7 @@
      transform="translate(0,3160.6299)">
     <path
        style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.01888657px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 304.66369,-2737.9388 c -99.41363,0 -179.4375,80.0239 -179.4375,179.4375 l 0,3390.59386 c 0,99.4136 80.02387,179.43744 179.4375,179.43744 l 2370.59381,0 c 99.4136,0 179.4375,-80.02384 179.4375,-179.43744 l 0,-3390.59386 c 0,-99.4136 -80.0239,-179.4375 -179.4375,-179.4375 l -2370.59381,0 z m 1180.75001,1508.6563 c 1.5151,-0.02 3.0117,0 4.5313,0 194.508,0 352.1875,163.8753 352.1875,366.06256 0,202.1872 -157.6795,366.0938 -352.1875,366.0937 -194.508,0 -352.1875,-163.9065 -352.1875,-366.0937 0,-200.60766 155.2461,-363.52916 347.6562,-366.06256 z"
+       d="m 302.66369,-2677.1065 c -99.41363,0 -179.4375,77.1553 -179.4375,173.0052 l 0,3269.05055 c 0,95.8499 80.02387,173.00516 179.4375,173.00516 l 2370.59381,0 c 99.4136,0 179.4375,-77.15526 179.4375,-173.00516 l 0,-3269.05055 c 0,-95.8499 -80.0239,-173.0052 -179.4375,-173.0052 l -2370.59381,0 z m 1180.75001,1454.5752 c 1.5151,-0.019 3.0117,0 4.5313,0 194.508,0 352.1875,158.0009 352.1875,352.94022 0,194.93936 -157.6795,352.97037 -352.1875,352.97028 -194.508,0 -352.1875,-158.03092 -352.1875,-352.97028 0,-193.41642 155.2461,-350.49762 347.6562,-352.94022 z"
        id="rect3758"
        inkscape:connector-curvature="0" />
     <path
@@ -1565,7 +1565,7 @@
        xml:space="preserve"
        id="flowRoot23922"
        style="font-size:180px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
-       transform="matrix(1.2448759,0,0,1.2372808,763.58035,-4057.6866)"><flowRegion
+       transform="matrix(1.2448759,0,0,1.2372808,761.58035,-3996.8543)"><flowRegion
          id="flowRegion23924"><rect
            id="rect23926"
            width="1091.8087"
@@ -1578,26 +1578,27 @@
    id="flowSpan8660">boxes</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:94.74139404px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37474f;fill-opacity:1;stroke:none;font-family:Sans"
-       x="154.84769"
-       y="-2812.5388"
+       x="152.81488"
+       y="-2752.6882"
        id="text7474"
        sodipodi:linespacing="125%"
        transform="scale(0.98386463,1.0164)"><tspan
          sodipodi:role="line"
          id="tspan7476"
-         x="154.84769"
-         y="-2812.5388">Standardized bioinformatic tools using Docker containers</tspan></text>
+         x="152.81488"
+         y="-2752.6882">Standardized bioinformatic tools using Docker containers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="699.96942"
-       y="-2776.1272"
+       x="697.96942"
+       y="-2715.2949"
        id="text16831"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16833"
-         x="699.96942"
-         y="-2776.1272">Peter Belmann, Michael Barton, Johannes Dröge, Albert Vilella</tspan></text>
+         x="697.96942"
+         y="-2715.2949"
+         style="fill:#37474f;fill-opacity:1">Peter Belmann, Michael Barton, Johannes Dröge, Albert Vilella</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
