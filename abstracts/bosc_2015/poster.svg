@@ -462,9 +462,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21576114"
-     inkscape:cx="98.374542"
-     inkscape:cy="2268.624"
+     inkscape:zoom="0.43152228"
+     inkscape:cx="1433.3398"
+     inkscape:cy="945.19994"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1529,40 +1529,44 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text17598-3"
-       y="751.0567"
-       x="1489.7118"
-       style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans Bold;text-anchor:middle;text-align:center"
-         y="751.0567"
-         x="1007.9747"
-         id="tspan17600-7"
-         sodipodi:role="line">Visit us at www.bioboxes.org and </tspan><tspan
-         style="font-weight:bold;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans Bold;text-anchor:middle;text-align:center"
-         y="814.74762"
-         x="1007.9747"
-         sodipodi:role="line"
-         id="tspan12333">follow us on twitter @bioboxes</tspan></text>
-    <path
-       d="m 1555.7496,833.11507 c -4.841,2.14747 -10.0445,3.59822 -15.5046,4.25083 5.5733,-3.3409 9.8543,-8.63125 11.8695,-14.93541 -5.2166,3.09415 -10.9938,5.34029 -17.1434,6.5509 -4.9239,-5.24692 -11.9399,-8.52468 -19.7047,-8.52468 -14.9085,0 -26.9964,12.0867 -26.9964,26.9951 0,2.11594 0.2387,4.17649 0.6993,6.15226 -22.4364,-1.12568 -42.3279,-11.87348 -55.6429,-28.2064 -2.3238,3.98706 -3.6554,8.62403 -3.6554,13.57158 0,9.36618 4.7659,17.629 12.0096,22.46999 -4.4251,-0.1401 -8.5878,-1.35462 -12.2274,-3.37642 0,0.11247 0,0.22564 0,0.33942 0,13.07948 9.3056,23.98978 21.6554,26.47146 -2.2652,0.61716 -4.6501,0.94676 -7.1121,0.94676 -1.7395,0 -3.4304,-0.16971 -5.0791,-0.4842 3.4356,10.72471 13.4051,18.52965 25.2187,18.74678 -9.2392,7.24103 -20.8791,11.55699 -33.5277,11.55699 -2.179,0 -4.3277,-0.12828 -6.4396,-0.37763 11.9471,7.66017 26.1372,12.12943 41.3825,12.12943 49.6552,0 76.8095,-41.1352 76.8095,-76.81026 0,-1.17041 -0.026,-2.3343 -0.078,-3.49289 5.2738,-3.80545 9.8504,-8.55959 13.4696,-13.97361 z"
-       id="path12313"
-       inkscape:connector-curvature="0"
-       style="fill:#2aa9e0" />
+    <g
+       id="g17788"
+       transform="translate(487.27882,0)">
+      <text
+         xml:space="preserve"
+         style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="931.22382"
+         y="857.00635"
+         id="text17598-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan17600-7"
+           x="940.08087"
+           y="857.00635"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans Bold">Visit us at www.bioboxes.org and </tspan><tspan
+           id="tspan12333"
+           sodipodi:role="line"
+           x="931.22382"
+           y="920.69727"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans Bold">follow us on twitter @bioboxes</tspan></text>
+      <path
+         style="fill:#2aa9e0"
+         inkscape:connector-curvature="0"
+         id="path12313"
+         d="m 1555.7496,833.11507 c -4.841,2.14747 -10.0445,3.59822 -15.5046,4.25083 5.5733,-3.3409 9.8543,-8.63125 11.8695,-14.93541 -5.2166,3.09415 -10.9938,5.34029 -17.1434,6.5509 -4.9239,-5.24692 -11.9399,-8.52468 -19.7047,-8.52468 -14.9085,0 -26.9964,12.0867 -26.9964,26.9951 0,2.11594 0.2387,4.17649 0.6993,6.15226 -22.4364,-1.12568 -42.3279,-11.87348 -55.6429,-28.2064 -2.3238,3.98706 -3.6554,8.62403 -3.6554,13.57158 0,9.36618 4.7659,17.629 12.0096,22.46999 -4.4251,-0.1401 -8.5878,-1.35462 -12.2274,-3.37642 0,0.11247 0,0.22564 0,0.33942 0,13.07948 9.3056,23.98978 21.6554,26.47146 -2.2652,0.61716 -4.6501,0.94676 -7.1121,0.94676 -1.7395,0 -3.4304,-0.16971 -5.0791,-0.4842 3.4356,10.72471 13.4051,18.52965 25.2187,18.74678 -9.2392,7.24103 -20.8791,11.55699 -33.5277,11.55699 -2.179,0 -4.3277,-0.12828 -6.4396,-0.37763 11.9471,7.66017 26.1372,12.12943 41.3825,12.12943 49.6552,0 76.8095,-41.1352 76.8095,-76.81026 0,-1.17041 -0.026,-2.3343 -0.078,-3.49289 5.2738,-3.80545 9.8504,-8.55959 13.4696,-13.97361 z" />
+    </g>
     <text
        sodipodi:linespacing="125%"
        id="text17598-0"
-       y="-57.708015"
-       x="1117.5305"
+       y="-215.28969"
+       x="1333.0466"
        style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-weight:bold;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans Bold"
-         y="-57.708015"
-         x="1117.5305"
+         y="-215.28969"
+         x="1333.0466"
          id="tspan17600-3"
-         sodipodi:role="line">How does bioboxes work?</tspan></text>
+         sodipodi:role="line">User Guide</tspan></text>
     <path
        style="fill:none;stroke:#37474f;stroke-width:3.29999999999999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 699.69642,458.88328 c 371.96978,0 371.96978,0 371.96978,0"
@@ -1622,5 +1626,224 @@
          id="tspan17138"
          x="1296.1589"
          y="1509.2472" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.95560074px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1002.5712"
+       y="-86.71302"
+       id="text12939-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1002.5712"
+         y="-86.71302"
+         id="tspan17516-2"
+         style="fill:#37474f;fill-opacity:1">The following example Biobox is is an assembler. </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text17598-0-9"
+       y="-6.2229075"
+       x="614.95093"
+       style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         y="-6.2229075"
+         x="614.95093"
+         id="tspan17600-3-5"
+         sodipodi:role="line">1. Describe your Input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.95560074px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="195.32455"
+       y="90.362549"
+       id="text12939-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="90.362549"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17810">The Bioboxes input must be described in a yaml file. </tspan><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="141.55704"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17868">A Biobox.yaml provides always a version number and an array </tspan><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="192.75154"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17860">of arguments. For an assembler, a list or fastq entries must be </tspan><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="243.94604"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17879">provided as input. A fastq entry has always an unique id </tspan><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="295.14053"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17535">(<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17820">test_reads</tspan>), the type of fastq (<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17824">paired</tspan>) and the path to the </tspan><tspan
+         sodipodi:role="line"
+         x="195.32455"
+         y="346.33505"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17863">file inside the container (<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17848">/bbx/input/reads.fq.gz</tspan>)</tspan></text>
+    <g
+       id="g17453"
+       transform="translate(-639.59618,46.347554)">
+      <rect
+         ry="97.051918"
+         y="352.55682"
+         x="1109.9532"
+         height="403.13864"
+         width="760.01471"
+         id="rect17451"
+         style="color:#000000;fill:#37474f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0849334px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text17435"
+         y="406.2453"
+         x="1147.3336"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="406.2453"
+           x="1147.3336"
+           id="tspan17437"
+           sodipodi:role="line">---</tspan><tspan
+           id="tspan17439"
+           y="456.2453"
+           x="1147.3336"
+           sodipodi:role="line">version: &quot;0.9.0&quot;</tspan><tspan
+           id="tspan17441"
+           y="506.2453"
+           x="1147.3336"
+           sodipodi:role="line">arguments:</tspan><tspan
+           id="tspan17443"
+           y="556.2453"
+           x="1147.3336"
+           sodipodi:role="line">  - fastq:</tspan><tspan
+           id="tspan17445"
+           y="606.2453"
+           x="1147.3336"
+           sodipodi:role="line">    - id: &quot;test_reads&quot;</tspan><tspan
+           id="tspan17447"
+           y="656.2453"
+           x="1147.3336"
+           sodipodi:role="line">      type: &quot;paired&quot;</tspan><tspan
+           id="tspan17449"
+           y="706.2453"
+           x="1147.3336"
+           sodipodi:role="line">      value: &quot;/bbx/input/reads.fq.gz&quot;</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text17598-0-9-4-6"
+       y="-6.2229056"
+       x="1860.7784"
+       style="font-size:50.95272446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         y="-6.2229056"
+         x="1860.7784"
+         id="tspan17600-3-5-0-8"
+         sodipodi:role="line">2. Run the biobox</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.95560074px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1676.4164"
+       y="76.139969"
+       id="text12939-4-3-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="76.139969"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17772">In order to start a biobox, the <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17905">docker run</tspan> command</tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="127.33447"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17914">must be specified. <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17912">--volume </tspan>allows to mount a</tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="178.52898"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17920">directory inside the container. Bioboxes input must</tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="229.72346"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17922">be mounted to <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17924">/bbx/input </tspan>and the output directory</tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="280.91797"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17928">to <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan17930">/bbx/output</tspan>. The last two arguments are the </tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="332.11249"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17934">bioboxes name which is downloaded if it does not </tspan><tspan
+         sodipodi:role="line"
+         x="1676.4164"
+         y="383.30698"
+         style="font-weight:normal;fill:#37474f;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan17936">exist locally and the task for a biobox.</tspan></text>
+    <g
+       id="g17453-8"
+       transform="translate(725.45223,57.934437)">
+      <g
+         id="g17776"
+         transform="translate(69.521323,-6.9521323)">
+        <rect
+           style="color:#000000;fill:#37474f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0849334px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect17451-27"
+           width="760.01471"
+           height="403.13864"
+           x="1039.8361"
+           y="352.55682"
+           ry="97.051918" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="1074.5114"
+           y="444.03827"
+           id="text17435-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="1074.5114"
+             y="444.03827"
+             id="tspan17449-6">docker run \</tspan><tspan
+             id="tspan17758"
+             sodipodi:role="line"
+             x="1074.5114"
+             y="494.03827">  --volume=&quot;/input:/bbx/input&quot; \</tspan><tspan
+             id="tspan17762"
+             sodipodi:role="line"
+             x="1074.5114"
+             y="544.03827">  --volume=&quot;/output:/bbx/output&quot; \</tspan><tspan
+             id="tspan17764"
+             sodipodi:role="line"
+             x="1074.5114"
+             y="594.03827">  bioboxes/velvet \</tspan><tspan
+             id="tspan17766"
+             sodipodi:role="line"
+             x="1074.5114"
+             y="644.03827">  default</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
